@@ -1,4 +1,4 @@
-# PocketMine-MP_32-bit
+# PM32
 
 # What is this ?
 
