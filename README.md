@@ -8,6 +8,6 @@ This is a Fork of Pocketmine-MP that allows you to to install Pocketmine-MP on a
 
 #  Todo
 
-- [x] FIX THE MEMORY MANAGER
-- [ ] FIX THE Pocketmine.php
-- [ ] FIX THE Binary.php
+- [x] FIXED THE MEMORY MANAGER
+- [ ] FIXED THE Pocketmine.php
+- [ ] FIXED THE Binary.php
