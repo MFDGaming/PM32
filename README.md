@@ -4,6 +4,8 @@
 
 This is a Fork of Pocketmine-MP that allows you to to install Pocketmine-MP on a 32bit device
 
+# If anyone wants to help this projust or take place in this projets, he can without any second thoughts
+
 # Installation
 
 #  Todo
